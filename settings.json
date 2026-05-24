@@ -8,7 +8,7 @@
   "server": {
     "ip": "weichbutterdih.aternos.me",
     "port": 46105,
-    "version": "1.21.11",
+    "version": "false",
     "try-creative": false
   },
   "position": {
